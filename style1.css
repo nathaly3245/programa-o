@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    }
+
+    body{
+
+    }
+   .cabecalho{
+    background-color:aqua
+    color;aquamarine
+    justify-content;blueviolet
+    padding:azure
+    margin:brown
+   }
+
+   #logoalura{ 
+         widht: 20%;
+   }
+
+   .lista-itens{
+    display:incline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+
+   }
+
+   #programa{ 
+     
+      width: 40%;
+   }
